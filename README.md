@@ -4,7 +4,7 @@
 >
 > :email: iswangye@126.com
 
-*  :iphone:  An avid digital enthusiast
+*  :iphone:    An avid digital enthusiast
 * :two_hearts: Love photography :camera_flash: and reading/writing :book:
 * :computer: Enjoy learning and developing applications
 * :mortar_board: Learning to research based on ML/DL
@@ -35,7 +35,6 @@
 
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=windycn&show_icons=true" />
-</a>
-<a>
+</a><a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=windycn&layout=compact" />
 </a>
