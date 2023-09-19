@@ -1,8 +1,8 @@
 ### Hi there，你好 ! 👋
 
-> I'm [WangYe](https://blog.csdn.net/qq_34373560), an undergraduate major in CS from China.
+> I'm [Windy](https://blog.csdn.net/qq_34373560), an undergraduate major in CS from China.
 >
-> :email: wy304379732@live.com
+> :email: yewangcs@gmail.com
 
 *  :iphone:    An avid digital enthusiast
 * :two_hearts: Love photography :camera_flash: and reading/writing :book:
